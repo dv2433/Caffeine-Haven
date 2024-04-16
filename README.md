@@ -1,8 +1,10 @@
-# coffeeapp
+# Coffee Shop App
 
 A new Flutter project.
 
 ## Getting Started
+
+https://github.com/dv2433/Caffeine-Haven/assets/123452447/fa9a6e5e-0699-4e6e-b36a-b32d504faa34
 
 This project is a starting point for a Flutter application.
 
